@@ -8,7 +8,9 @@
 | 5678     | Sara Ahmed   | https://sara-landing.vercel.app         | https://github.com/your-org/repo-name/tree/main/students/roll5678-SaraAhmed | https://linkedin.com/in/saraahmed |
 | WMA416254 | Abuzar Haider | https://chipper-malasada-f16054.netlify.app/   | https://github.com/Abuzarh88/batch-17-mini-hackathon/tree/main/students/wma416254-Muhammad-Abuzar-Haider |  |
 | Wma-408944  | Huzaif  |  https://batch-17-mini-hackathon-huzaif.vercel.app/   | https://github.com/huzaif2006/batch-17-mini-hackathon/tree/main/students/WMA-408944-Huzaif    |     https://www.linkedin.com/feed/update/urn:li:activity:7355303717132263424/    |
-| WMA415468         | Jaffar             | https://startling-chebakia-d6a1c1.netlify.app/| https://github.com/jaffar-dev/batch-17-mini-hackathon/tree/main/students/wma415468-MuhammadJaffar | https://www.linkedin.com/posts/muhammad-jaffar-002a8b232_hey-i-have-cloned-darazpk-in-hackathon-activity-7355303321433169920-H0eD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADouKkIBf7aDv3cesc5Bk5U7DGvDjppWH0E              |
+| WMA415468         | Jaffar             | https://startling-chebakia-d6a1c1.netlify.app/| https://github.com/jaffar-dev/batch-17-mini-hackathon/tree/main/students/wma415468-MuhammadJaffar | https://www.linkedin.com/posts/muhammad-jaffar-002a8b232_hey-i-have-cloned-darazpk-in-hackathon-activity-7355303321433169920-H0eD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADouKkIBf7aDv3cesc5Bk5U7DGvDjppWH0E   
+| WMA-415454         | Muhammad-Saad-Khan             | http://saad-hackathon-b17.surge.sh/ | https://github.com/jaffar-dev/batch-17-mini-hackathon/tree/main/students/ | https://www.linkedin.com/posts/              |
+           |
 
 > ⚠️ Note:
 > - Submit before **12:00 PM sharp**  
